@@ -10,9 +10,10 @@
     font-weight: bold;
 }
 
-.menu__link:last-child {
-    margin-right: none;
-}
 .menu__link:hover{
     text-decoration: underline;
+}
+
+.menu__link:last-child {
+    margin-right: none;
 }
